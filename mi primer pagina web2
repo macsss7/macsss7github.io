@@ -1,0 +1,12 @@
+<HTML>
+<HEAD>
+<TITLE><U>My home sweet home Page</U></TITLE>
+</HEAD>
+<BODY>
+<H1>Este sera el texto que aparezca en mi pagina, es de practica, estoy aprendiendo.</H1>
+<H2>this is the third line. <I> esto se deberia de ver en cursiva</I> <TT> y esto debe verse en monoespaciado</TT></H2>
+<P>
+este es otro parafo y probare signos y coSAS ASI &#174; &#169; &#165; &#215; 
+<H3>intentemos poner un vinculo a ver <A HREF=https://view.genial.ly/643f1e0552d6b30018bfe7ad/presentation-laura-esquivel></A></H3>
+</BODY>
+</HTML>
